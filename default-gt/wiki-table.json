@@ -1,0 +1,182 @@
+[
+    {
+        "file": "data/db/Al_Gore.db", 
+        "example": [
+            58663
+        ]
+    }, 
+    {
+        "file": "data/db/Franklin_D._Roosevelt.db", 
+        "example": [
+            64598
+        ]
+    }, 
+    {
+        "file": "data/db/Donald_Trump.db", 
+        "example": [
+            69681
+        ]
+    }, 
+    {
+        "file": "data/db/Gerald_Ford.db", 
+        "example": [
+            70988
+        ]
+    }, 
+    {
+        "file": "data/db/Andrew_Jackson.db", 
+        "example": [
+            56522
+        ]
+    }, 
+    {
+        "file": "data/db/Charles_Curtis.db", 
+        "example": [
+            74120
+        ]
+    }, 
+    {
+        "file": "data/db/Bill_Clinton.db", 
+        "example": [
+            64195
+        ]
+    }, 
+    {
+        "file": "data/db/Charles_G._Dawes.db", 
+        "example": [
+            75775
+        ]
+    }, 
+    {
+        "file": "data/db/Franklin_Pierce.db", 
+        "example": [
+            93830
+        ]
+    }, 
+    {
+        "file": "data/db/Dwight_D._Eisenhower.db", 
+        "example": [
+            80235
+        ]
+    }, 
+    {
+        "file": "data/db/Benjamin_Harrison.db", 
+        "example": [
+            69692
+        ]
+    }, 
+    {
+        "file": "data/db/Daniel_D._Tompkins.db", 
+        "example": [
+            87338
+        ]
+    }, 
+    {
+        "file": "data/db/Elbridge_Gerry.db", 
+        "example": [
+            63301
+        ]
+    }, 
+    {
+        "file": "data/db/Dan_Quayle.db", 
+        "example": [
+            77919
+        ]
+    }, 
+    {
+        "file": "data/db/Dick_Cheney.db", 
+        "example": [
+            88824
+        ]
+    }, 
+    {
+        "file": "data/db/George_W._Bush.db", 
+        "example": [
+            90608
+        ]
+    }, 
+    {
+        "file": "data/db/Aaron_Burr.db", 
+        "example": [
+            55642
+        ]
+    }, 
+    {
+        "file": "data/db/Charles_W._Fairbanks.db", 
+        "example": [
+            86224
+        ]
+    }, 
+    {
+        "file": "data/db/George_M._Dallas.db", 
+        "example": [
+            98812
+        ]
+    }, 
+    {
+        "file": "data/db/Barack_Obama.db", 
+        "example": [
+            78184
+        ]
+    }, 
+    {
+        "file": "data/db/Alben_W._Barkley.db", 
+        "example": [
+            73678
+        ]
+    }, 
+    {
+        "file": "data/db/Chester_A._Arthur.db", 
+        "example": [
+            60721
+        ]
+    }, 
+    {
+        "file": "data/db/Garret_Hobart.db", 
+        "example": [
+            76828
+        ]
+    }, 
+    {
+        "file": "data/db/Andrew_Johnson.db", 
+        "example": [
+            61554
+        ]
+    }, 
+    {
+        "file": "data/db/George_Washington.db", 
+        "example": [
+            100281
+        ]
+    }, 
+    {
+        "file": "data/db/George_Clinton.db", 
+        "example": [
+            88930
+        ]
+    }, 
+    {
+        "file": "data/db/George_H._W._Bush.db", 
+        "example": [
+            79020
+        ]
+    }, 
+    {
+        "file": "data/db/Adlai_Stevenson.db", 
+        "example": [
+            71756
+        ]
+    }, 
+    {
+        "file": "data/db/Abraham_Lincoln.db", 
+        "example": [
+            64292
+        ]
+    }, 
+    {
+        "file": "data/db/Calvin_Coolidge.db", 
+        "example": [
+            58724
+        ]
+    }
+]

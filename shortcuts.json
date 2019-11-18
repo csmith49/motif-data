@@ -1,0 +1,40 @@
+[
+    {
+        "_description": "0 <- CONTAINS -- 1 <- RIGHT_OF -- 2 -- CONTAINS -> 3",
+        "edges": [
+            {
+                "source": 1,
+                "label": "CONTAINS",
+                "destination": 0
+            },
+            {
+                "source": 2,
+                "label": "CONTAINS",
+                "destination": 3
+            },
+            {
+                "source": 1,
+                "label": "RIGHT_OF",
+                "destination": 2
+            }
+        ],
+        "vertices": [
+            {
+                "identifier": 0,
+                "label": {}
+            },
+            {
+                "identifier": 1,
+                "label": {}
+            },
+            {
+                "identifier": 2,
+                "label": {}
+            },
+            {
+                "identifier": 3,
+                "label": {}
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "size": 1,
+        "view_db": "./data/views.db",
+        "views": ["simple"],
+        "shortcuts": "./data/shortcuts.json",
+        "max_attributes": 0,
+        "max_labels": 0,
+        "fixed_attributes": [
+            "TEXT",
+            "KIND",
+            "NER"
+        ],
+        "fixed_labels": [
+            "RIGHT_OF",
+            "CONTAINS"
+        ]
+    },
+    "ground-truth": {
+        "kind" : "sql",
+        "dataset" : "politician",
+        "sql": "SELECT target FROM (SELECT id as anchor FROM TEXT WHERE value=\"Place of Birth\") JOIN LEFT_OF ON source=anchor;"
+    }
+}

@@ -18,7 +18,7 @@
             "CONTAINS"
         ]
     },
-    "number-of-examples": 5,
+    "number-of-examples": 1,
     "ground-truth": {
         "kind": "provided",
         "labels": [
@@ -303,7 +303,9 @@
             {
                 "file": "data/db/politician-text/81.db",
                 "example": [
-                    40090
+                    36067,
+                    36070,
+                    36073
                 ]
             },
             {

@@ -80,7 +80,11 @@
             {
                 "file": "data/db/politician-text/37.db",
                 "example": [
-                    38756
+                    5287,
+                    5290,
+                    5292,
+                    5296,
+                    5297
                 ]
             },
             {
@@ -264,7 +268,7 @@
             {
                 "file": "data/db/politician-text/41.db",
                 "example": [
-                    39624
+                    8562
                 ]
             },
             {
@@ -332,10 +336,6 @@
                     16637,
                     16639
                 ]
-            },
-            {
-                "file": "data/db/politician-text/57.db",
-                "example": []
             },
             {
                 "file": "data/db/politician-text/81.db",
@@ -505,7 +505,7 @@
             {
                 "file": "data/db/politician-text/71.db",
                 "example": [
-                    40852
+                    17235
                 ]
             },
             {
@@ -672,7 +672,10 @@
             {
                 "file": "data/db/politician-text/99.db",
                 "example": [
-                    41465
+                    19762,
+                    19766,
+                    19770,
+                    19774
                 ]
             },
             {
@@ -723,7 +726,7 @@
             {
                 "file": "data/db/politician-text/66.db",
                 "example": [
-                    41717
+                    37102
                 ]
             },
             {
@@ -779,7 +782,9 @@
             {
                 "file": "data/db/politician-text/97.db",
                 "example": [
-                    42033
+                    18558,
+                    18561,
+                    18564
                 ]
             }
         ]

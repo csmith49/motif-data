@@ -1,0 +1,578 @@
+{
+    "metadata": {
+        "size": 1,
+        "view_db": "./data/views.db",
+        "views": [
+            "simple"
+        ],
+        "shortcuts": "./data/shortcuts.json",
+        "max_attributes": 0,
+        "max_labels": 0,
+        "fixed_attributes": [
+            "TEXT",
+            "KIND",
+            "NER"
+        ],
+        "fixed_labels": [
+            "CONTAINS",
+            "RIGHT_OF"
+        ]
+    },
+    "ground-truth": {
+        "kind": "provided",
+        "labels": [
+            {
+                "example": [
+                    33456
+                ],
+                "file": "./data/DISES00189-1.db"
+            },
+            {
+                "example": [
+                    25813
+                ],
+                "file": "./data/BournsInc_BD246BS.db"
+            },
+            {
+                "example": [
+                    52912
+                ],
+                "file": "./data/KECCS03676-1.db"
+            },
+            {
+                "example": [
+                    40098
+                ],
+                "file": "./data/CentralSemiconductorCorp_CXT4033TR.db"
+            },
+            {
+                "example": [
+                    37900
+                ],
+                "file": "./data/BC337-D.db"
+            },
+            {
+                "example": [
+                    42673
+                ],
+                "file": "./data/CSEMS05383-1.db"
+            },
+            {
+                "example": [
+                    83230
+                ],
+                "file": "./data/PNJIS01453-1.db"
+            },
+            {
+                "example": [
+                    23783
+                ],
+                "file": "./data/BC337.db"
+            },
+            {
+                "example": [
+                    41752
+                ],
+                "file": "./data/LITES00686-1.db"
+            },
+            {
+                "example": [
+                    37923
+                ],
+                "file": "./data/DiodesIncorporated_ZTX688BSTZ.db"
+            },
+            {
+                "example": [
+                    76884
+                ],
+                "file": "./data/ONSMS04099-1.db"
+            },
+            {
+                "example": [
+                    65641
+                ],
+                "file": "./data/LITES00689-1.db"
+            },
+            {
+                "example": [
+                    62993
+                ],
+                "file": "./data/KECCS05435-1.db"
+            },
+            {
+                "example": [
+                    63006
+                ],
+                "file": "./data/KECCS05435-1.db"
+            },
+            {
+                "example": [
+                    63014
+                ],
+                "file": "./data/KECCS05435-1.db"
+            },
+            {
+                "example": [
+                    47467
+                ],
+                "file": "./data/DiodesIncorporated_2DD26527.db"
+            },
+            {
+                "example": [
+                    31067
+                ],
+                "file": "./data/CentralSemiconductorCorp_CENU45.db"
+            },
+            {
+                "example": [
+                    31417
+                ],
+                "file": "./data/CentralSemiconductorCorp_CENU45.db"
+            },
+            {
+                "example": [
+                    35724
+                ],
+                "file": "./data/FAIRS25065-1.db"
+            },
+            {
+                "example": [
+                    35854
+                ],
+                "file": "./data/FAIRS25065-1.db"
+            },
+            {
+                "example": [
+                    56219
+                ],
+                "file": "./data/LTSCS02910-1.db"
+            },
+            {
+                "example": [
+                    49106
+                ],
+                "file": "./data/MicrosemiCorporation_2N2484UB.db"
+            },
+            {
+                "example": [
+                    49221
+                ],
+                "file": "./data/MicrosemiCorporation_2N2484UB.db"
+            },
+            {
+                "example": [
+                    25311
+                ],
+                "file": "./data/2N6427.db"
+            },
+            {
+                "example": [
+                    71312
+                ],
+                "file": "./data/MOTOS04676-1.db"
+            },
+            {
+                "example": [
+                    24718
+                ],
+                "file": "./data/BC546A_Series_B14-521026.db"
+            },
+            {
+                "example": [
+                    56346
+                ],
+                "file": "./data/PNJIS00254-1.db"
+            },
+            {
+                "example": [
+                    58294
+                ],
+                "file": "./data/INFNS19372-1.db"
+            },
+            {
+                "example": [
+                    62234
+                ],
+                "file": "./data/FairchildSemiconductor_KSC2310YTA.db"
+            },
+            {
+                "example": [
+                    47974
+                ],
+                "file": "./data/DiodesIncorporated_ZTX953STZ.db"
+            },
+            {
+                "example": [
+                    42459
+                ],
+                "file": "./data/LITES00690-1.db"
+            },
+            {
+                "example": [
+                    37201
+                ],
+                "file": "./data/BournsInc_TIP152S.db"
+            },
+            {
+                "example": [
+                    45425
+                ],
+                "file": "./data/DISES00192-1.db"
+            },
+            {
+                "example": [
+                    38063
+                ],
+                "file": "./data/Infineon-BC817KSERIES_BC818KSERIES-DS-v01_01-en.db"
+            },
+            {
+                "example": [
+                    41964
+                ],
+                "file": "./data/CSEMS02742-1.db"
+            },
+            {
+                "example": [
+                    56737
+                ],
+                "file": "./data/FAIRS19194-1.db"
+            },
+            {
+                "example": [
+                    34484
+                ],
+                "file": "./data/DISES00616-1.db"
+            },
+            {
+                "example": [
+                    61917
+                ],
+                "file": "./data/VSMIS00373-1.db"
+            },
+            {
+                "example": [
+                    33013
+                ],
+                "file": "./data/BC546-BC548C(TO-92).db"
+            },
+            {
+                "example": [
+                    55290
+                ],
+                "file": "./data/LITES00424-1.db"
+            },
+            {
+                "example": [
+                    28820
+                ],
+                "file": "./data/BC818.db"
+            },
+            {
+                "example": [
+                    48219
+                ],
+                "file": "./data/DiodesIncorporated_ZXT690BKTC.db"
+            },
+            {
+                "example": [
+                    82400
+                ],
+                "file": "./data/PNJIS01186-1.db"
+            },
+            {
+                "example": [
+                    78660
+                ],
+                "file": "./data/PHGLS20267-1.db"
+            },
+            {
+                "example": [
+                    45837
+                ],
+                "file": "./data/MMBT3904.db"
+            },
+            {
+                "example": [
+                    44815
+                ],
+                "file": "./data/DIODS13249-1.db"
+            },
+            {
+                "example": [
+                    69895
+                ],
+                "file": "./data/MOTOS03189-1.db"
+            },
+            {
+                "example": [
+                    64127
+                ],
+                "file": "./data/dtc114w.db"
+            },
+            {
+                "example": [
+                    64131
+                ],
+                "file": "./data/dtc114w.db"
+            },
+            {
+                "example": [
+                    42840
+                ],
+                "file": "./data/DISES00645-1.db"
+            },
+            {
+                "example": [
+                    87620
+                ],
+                "file": "./data/bc546-d.db"
+            },
+            {
+                "example": [
+                    64752
+                ],
+                "file": "./data/Infineon-BC857SERIES_BC858SERIES_BC859SERIES_BC860SERIES-DS-v01_01-en.db"
+            },
+            {
+                "example": [
+                    61446
+                ],
+                "file": "./data/MOTOS03160-1.db"
+            },
+            {
+                "example": [
+                    76772
+                ],
+                "file": "./data/PHGLS19500-1.db"
+            },
+            {
+                "example": [
+                    76945
+                ],
+                "file": "./data/PHGLS19500-1.db"
+            },
+            {
+                "example": [
+                    35602
+                ],
+                "file": "./data/DiodesIncorporated_FCX491ATA.db"
+            },
+            {
+                "example": [
+                    50157
+                ],
+                "file": "./data/NXPUSAInc_PBSS5360PASX.db"
+            },
+            {
+                "example": [
+                    50569
+                ],
+                "file": "./data/NXPUSAInc_PBSS5360PASX.db"
+            },
+            {
+                "example": [
+                    29567
+                ],
+                "file": "./data/BC182-D.db"
+            },
+            {
+                "example": [
+                    86967
+                ],
+                "file": "./data/UTCLS01324-1.db"
+            },
+            {
+                "example": [
+                    40523
+                ],
+                "file": "./data/BC547.db"
+            },
+            {
+                "example": [
+                    32831
+                ],
+                "file": "./data/DIODS00215-1.db"
+            },
+            {
+                "example": [
+                    43518
+                ],
+                "file": "./data/DiodesIncorporated_FZT651TC.db"
+            },
+            {
+                "example": [
+                    23977
+                ],
+                "file": "./data/2N3906-D.db"
+            },
+            {
+                "example": [
+                    66719
+                ],
+                "file": "./data/MCCCS08610-1.db"
+            },
+            {
+                "example": [
+                    56930
+                ],
+                "file": "./data/LTSCS02920-1.db"
+            },
+            {
+                "example": [
+                    42080
+                ],
+                "file": "./data/DISES00242-1.db"
+            },
+            {
+                "example": [
+                    29526
+                ],
+                "file": "./data/2N4123-D.db"
+            },
+            {
+                "example": [
+                    21544
+                ],
+                "file": "./data/112823.db"
+            },
+            {
+                "example": [
+                    68136
+                ],
+                "file": "./data/LTSCS02912-1.db"
+            },
+            {
+                "example": [
+                    27590
+                ],
+                "file": "./data/BC546.db"
+            },
+            {
+                "example": [
+                    49451
+                ],
+                "file": "./data/DiodesIncorporated_ZTX789ASTZ.db"
+            },
+            {
+                "example": [
+                    46510
+                ],
+                "file": "./data/DISES00490-1.db"
+            },
+            {
+                "example": [
+                    71377
+                ],
+                "file": "./data/MOTOS04796-1.db"
+            },
+            {
+                "example": [
+                    30354
+                ],
+                "file": "./data/CSEMS05382-1.db"
+            },
+            {
+                "example": [
+                    73474
+                ],
+                "file": "./data/ONSemiconductor_MMBT6521LT1.db"
+            },
+            {
+                "example": [
+                    73536
+                ],
+                "file": "./data/ONSemiconductor_MMBT6521LT1.db"
+            },
+            {
+                "example": [
+                    27385
+                ],
+                "file": "./data/CSEMS03485-1.db"
+            },
+            {
+                "example": [
+                    69699
+                ],
+                "file": "./data/MINDS00015-1.db"
+            },
+            {
+                "example": [
+                    41441
+                ],
+                "file": "./data/DISES00023-1.db"
+            },
+            {
+                "example": [
+                    35358
+                ],
+                "file": "./data/BC818-40LT1-D.db"
+            },
+            {
+                "example": [
+                    63013
+                ],
+                "file": "./data/bc546_diotec.db"
+            },
+            {
+                "example": [
+                    29092
+                ],
+                "file": "./data/AUKCS04635-1.db"
+            },
+            {
+                "example": [
+                    87200
+                ],
+                "file": "./data/bc550.db"
+            },
+            {
+                "example": [
+                    36819
+                ],
+                "file": "./data/BC182.db"
+            },
+            {
+                "example": [
+                    86290
+                ],
+                "file": "./data/WEITS00252-1.db"
+            },
+            {
+                "example": [
+                    81702
+                ],
+                "file": "./data/PHGLS25601-1.db"
+            },
+            {
+                "example": [
+                    82080
+                ],
+                "file": "./data/PHGLS25601-1.db"
+            },
+            {
+                "example": [
+                    57497
+                ],
+                "file": "./data/PNJIS01305-1.db"
+            },
+            {
+                "example": [
+                    52174
+                ],
+                "file": "./data/JCSTS01155-1.db"
+            },
+            {
+                "example": [
+                    34400
+                ],
+                "file": "./data/2N4124.db"
+            },
+            {
+                "example": [
+                    22313
+                ],
+                "file": "./data/2N6426-D.db"
+            }
+        ]
+    }
+}

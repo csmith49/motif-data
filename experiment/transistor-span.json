@@ -1,0 +1,90 @@
+
+{
+    "metadata": {
+        "size": 1,
+        "view_db": "./tests/views.db",
+        "views": [
+            "simple"
+        ],
+        "max_attributes": 0,
+        "max_labels": 0,
+        "fixed_attributes": [
+            "TEXT",
+            "NER"
+        ],
+        "fixed_labels": [
+            "CONTAINS",
+            "PREVIOUS"
+        ]
+    },
+    "number-of-examples": 3,
+    "ground-truth": {
+        "kind": "provided",
+        "labels" : [
+            {
+                "file": "data/db/transistor/CentralSemiconductorCorp_CMPT5401ETR.db",
+                "example": [462319]
+            },
+            {
+                "file": "data/db/transistor/MCCCS09540-1.db",
+                "example": [398333]
+            },
+            {
+                "file": "data/db/transistor/MCCCS09741-1.db",
+                "example": [408713]
+            },
+            {
+                "file": "data/db/transistor/MicroCommercialCo_TIP29ABP.db",
+                "example": [413992]
+            },
+            {
+                "file": "data/db/transistor/MMMCS17742-1.db",
+                "example": [384051]
+            },
+            {
+                "file": "data/db/transistor/PJECS00521-1.db",
+                "example": [237979]
+            },
+            {
+                "file": "data/db/transistor/PNJIS01593-1.db",
+                "example": [196252]
+            },
+            {
+                "file": "data/db/transistor/RECTS00705-1.db",
+                "example": [206475]
+            },
+            {
+                "file": "data/db/transistor/RECTS01158-1.db",
+                "example": [178423]
+            },
+            {
+                "file": "data/db/transistor/CentralSemiconductorCorp_CMPT5401ETR.db",
+                "example": [462319]
+            },
+            {
+                "file": "data/db/transistor/MCCCS09540-1.db",
+                "example": [398333]
+            },
+            {
+                "file": "data/db/transistor/MCCCS09741-1.db",
+                "example": [408713]
+            },
+            {
+                "file": "data/db/transistor/MMMCS17742-1.db",
+                "example": [384051]
+            },
+            {
+                "file": "data/db/transistor/PJECS00521-1.db",
+                "example": [237979]
+            },
+            {
+                "file": "data/db/transistor/PNJIS01593-1.db",
+                "example": [196252]
+            },
+            {
+                "file": "data/db/transistor/RECTS01158-1.db",
+                "example": [178423]
+            }
+        ]
+    }
+}

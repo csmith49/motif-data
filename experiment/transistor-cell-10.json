@@ -1,0 +1,578 @@
+{
+    "metadata": {
+        "size": 1,
+        "view_db": "./tests/views.db",
+        "views": [
+            "simple"
+        ],
+        "shortcuts": "./tests/shortcuts.json",
+        "max_attributes": 0,
+        "max_labels": 0,
+        "fixed_attributes": [
+            "TEXT",
+            "KIND"
+        ],
+        "fixed_labels": [
+            "RIGHT_OF",
+            "CONTAINS"
+        ]
+    },
+    "number-of-examples": 10,
+    "ground-truth": {
+        "kind": "provided",
+        "labels": [
+            {
+                "example": [
+                    33456
+                ],
+                "file": "data/db/transistor/DISES00189-1.db"
+            },
+            {
+                "example": [
+                    25813
+                ],
+                "file": "data/db/transistor/BournsInc_BD246BS.db"
+            },
+            {
+                "example": [
+                    52912
+                ],
+                "file": "data/db/transistor/KECCS03676-1.db"
+            },
+            {
+                "example": [
+                    40098
+                ],
+                "file": "data/db/transistor/CentralSemiconductorCorp_CXT4033TR.db"
+            },
+            {
+                "example": [
+                    37900
+                ],
+                "file": "data/db/transistor/BC337-D.db"
+            },
+            {
+                "example": [
+                    42673
+                ],
+                "file": "data/db/transistor/CSEMS05383-1.db"
+            },
+            {
+                "example": [
+                    83230
+                ],
+                "file": "data/db/transistor/PNJIS01453-1.db"
+            },
+            {
+                "example": [
+                    23783
+                ],
+                "file": "data/db/transistor/BC337.db"
+            },
+            {
+                "example": [
+                    41752
+                ],
+                "file": "data/db/transistor/LITES00686-1.db"
+            },
+            {
+                "example": [
+                    37923
+                ],
+                "file": "data/db/transistor/DiodesIncorporated_ZTX688BSTZ.db"
+            },
+            {
+                "example": [
+                    76884
+                ],
+                "file": "data/db/transistor/ONSMS04099-1.db"
+            },
+            {
+                "example": [
+                    65641
+                ],
+                "file": "data/db/transistor/LITES00689-1.db"
+            },
+            {
+                "example": [
+                    62993
+                ],
+                "file": "data/db/transistor/KECCS05435-1.db"
+            },
+            {
+                "example": [
+                    63006
+                ],
+                "file": "data/db/transistor/KECCS05435-1.db"
+            },
+            {
+                "example": [
+                    63014
+                ],
+                "file": "data/db/transistor/KECCS05435-1.db"
+            },
+            {
+                "example": [
+                    47467
+                ],
+                "file": "data/db/transistor/DiodesIncorporated_2DD26527.db"
+            },
+            {
+                "example": [
+                    31067
+                ],
+                "file": "data/db/transistor/CentralSemiconductorCorp_CENU45.db"
+            },
+            {
+                "example": [
+                    31417
+                ],
+                "file": "data/db/transistor/CentralSemiconductorCorp_CENU45.db"
+            },
+            {
+                "example": [
+                    35724
+                ],
+                "file": "data/db/transistor/FAIRS25065-1.db"
+            },
+            {
+                "example": [
+                    35854
+                ],
+                "file": "data/db/transistor/FAIRS25065-1.db"
+            },
+            {
+                "example": [
+                    56219
+                ],
+                "file": "data/db/transistor/LTSCS02910-1.db"
+            },
+            {
+                "example": [
+                    49106
+                ],
+                "file": "data/db/transistor/MicrosemiCorporation_2N2484UB.db"
+            },
+            {
+                "example": [
+                    49221
+                ],
+                "file": "data/db/transistor/MicrosemiCorporation_2N2484UB.db"
+            },
+            {
+                "example": [
+                    25311
+                ],
+                "file": "data/db/transistor/2N6427.db"
+            },
+            {
+                "example": [
+                    71312
+                ],
+                "file": "data/db/transistor/MOTOS04676-1.db"
+            },
+            {
+                "example": [
+                    24718
+                ],
+                "file": "data/db/transistor/BC546A_Series_B14-521026.db"
+            },
+            {
+                "example": [
+                    56346
+                ],
+                "file": "data/db/transistor/PNJIS00254-1.db"
+            },
+            {
+                "example": [
+                    58294
+                ],
+                "file": "data/db/transistor/INFNS19372-1.db"
+            },
+            {
+                "example": [
+                    62234
+                ],
+                "file": "data/db/transistor/FairchildSemiconductor_KSC2310YTA.db"
+            },
+            {
+                "example": [
+                    47974
+                ],
+                "file": "data/db/transistor/DiodesIncorporated_ZTX953STZ.db"
+            },
+            {
+                "example": [
+                    42459
+                ],
+                "file": "data/db/transistor/LITES00690-1.db"
+            },
+            {
+                "example": [
+                    37201
+                ],
+                "file": "data/db/transistor/BournsInc_TIP152S.db"
+            },
+            {
+                "example": [
+                    45425
+                ],
+                "file": "data/db/transistor/DISES00192-1.db"
+            },
+            {
+                "example": [
+                    38063
+                ],
+                "file": "data/db/transistor/Infineon-BC817KSERIES_BC818KSERIES-DS-v01_01-en.db"
+            },
+            {
+                "example": [
+                    41964
+                ],
+                "file": "data/db/transistor/CSEMS02742-1.db"
+            },
+            {
+                "example": [
+                    56737
+                ],
+                "file": "data/db/transistor/FAIRS19194-1.db"
+            },
+            {
+                "example": [
+                    34484
+                ],
+                "file": "data/db/transistor/DISES00616-1.db"
+            },
+            {
+                "example": [
+                    61917
+                ],
+                "file": "data/db/transistor/VSMIS00373-1.db"
+            },
+            {
+                "example": [
+                    33013
+                ],
+                "file": "data/db/transistor/BC546-BC548C(TO-92).db"
+            },
+            {
+                "example": [
+                    55290
+                ],
+                "file": "data/db/transistor/LITES00424-1.db"
+            },
+            {
+                "example": [
+                    28820
+                ],
+                "file": "data/db/transistor/BC818.db"
+            },
+            {
+                "example": [
+                    48219
+                ],
+                "file": "data/db/transistor/DiodesIncorporated_ZXT690BKTC.db"
+            },
+            {
+                "example": [
+                    82400
+                ],
+                "file": "data/db/transistor/PNJIS01186-1.db"
+            },
+            {
+                "example": [
+                    78660
+                ],
+                "file": "data/db/transistor/PHGLS20267-1.db"
+            },
+            {
+                "example": [
+                    45837
+                ],
+                "file": "data/db/transistor/MMBT3904.db"
+            },
+            {
+                "example": [
+                    44815
+                ],
+                "file": "data/db/transistor/DIODS13249-1.db"
+            },
+            {
+                "example": [
+                    69895
+                ],
+                "file": "data/db/transistor/MOTOS03189-1.db"
+            },
+            {
+                "example": [
+                    64127
+                ],
+                "file": "data/db/transistor/dtc114w.db"
+            },
+            {
+                "example": [
+                    64131
+                ],
+                "file": "data/db/transistor/dtc114w.db"
+            },
+            {
+                "example": [
+                    42840
+                ],
+                "file": "data/db/transistor/DISES00645-1.db"
+            },
+            {
+                "example": [
+                    87620
+                ],
+                "file": "data/db/transistor/bc546-d.db"
+            },
+            {
+                "example": [
+                    64752
+                ],
+                "file": "data/db/transistor/Infineon-BC857SERIES_BC858SERIES_BC859SERIES_BC860SERIES-DS-v01_01-en.db"
+            },
+            {
+                "example": [
+                    61446
+                ],
+                "file": "data/db/transistor/MOTOS03160-1.db"
+            },
+            {
+                "example": [
+                    76772
+                ],
+                "file": "data/db/transistor/PHGLS19500-1.db"
+            },
+            {
+                "example": [
+                    76945
+                ],
+                "file": "data/db/transistor/PHGLS19500-1.db"
+            },
+            {
+                "example": [
+                    35602
+                ],
+                "file": "data/db/transistor/DiodesIncorporated_FCX491ATA.db"
+            },
+            {
+                "example": [
+                    50157
+                ],
+                "file": "data/db/transistor/NXPUSAInc_PBSS5360PASX.db"
+            },
+            {
+                "example": [
+                    50569
+                ],
+                "file": "data/db/transistor/NXPUSAInc_PBSS5360PASX.db"
+            },
+            {
+                "example": [
+                    29567
+                ],
+                "file": "data/db/transistor/BC182-D.db"
+            },
+            {
+                "example": [
+                    86967
+                ],
+                "file": "data/db/transistor/UTCLS01324-1.db"
+            },
+            {
+                "example": [
+                    40523
+                ],
+                "file": "data/db/transistor/BC547.db"
+            },
+            {
+                "example": [
+                    32831
+                ],
+                "file": "data/db/transistor/DIODS00215-1.db"
+            },
+            {
+                "example": [
+                    43518
+                ],
+                "file": "data/db/transistor/DiodesIncorporated_FZT651TC.db"
+            },
+            {
+                "example": [
+                    23977
+                ],
+                "file": "data/db/transistor/2N3906-D.db"
+            },
+            {
+                "example": [
+                    66719
+                ],
+                "file": "data/db/transistor/MCCCS08610-1.db"
+            },
+            {
+                "example": [
+                    56930
+                ],
+                "file": "data/db/transistor/LTSCS02920-1.db"
+            },
+            {
+                "example": [
+                    42080
+                ],
+                "file": "data/db/transistor/DISES00242-1.db"
+            },
+            {
+                "example": [
+                    29526
+                ],
+                "file": "data/db/transistor/2N4123-D.db"
+            },
+            {
+                "example": [
+                    21544
+                ],
+                "file": "data/db/transistor/112823.db"
+            },
+            {
+                "example": [
+                    68136
+                ],
+                "file": "data/db/transistor/LTSCS02912-1.db"
+            },
+            {
+                "example": [
+                    27590
+                ],
+                "file": "data/db/transistor/BC546.db"
+            },
+            {
+                "example": [
+                    49451
+                ],
+                "file": "data/db/transistor/DiodesIncorporated_ZTX789ASTZ.db"
+            },
+            {
+                "example": [
+                    46510
+                ],
+                "file": "data/db/transistor/DISES00490-1.db"
+            },
+            {
+                "example": [
+                    71377
+                ],
+                "file": "data/db/transistor/MOTOS04796-1.db"
+            },
+            {
+                "example": [
+                    30354
+                ],
+                "file": "data/db/transistor/CSEMS05382-1.db"
+            },
+            {
+                "example": [
+                    73474
+                ],
+                "file": "data/db/transistor/ONSemiconductor_MMBT6521LT1.db"
+            },
+            {
+                "example": [
+                    73536
+                ],
+                "file": "data/db/transistor/ONSemiconductor_MMBT6521LT1.db"
+            },
+            {
+                "example": [
+                    27385
+                ],
+                "file": "data/db/transistor/CSEMS03485-1.db"
+            },
+            {
+                "example": [
+                    69699
+                ],
+                "file": "data/db/transistor/MINDS00015-1.db"
+            },
+            {
+                "example": [
+                    41441
+                ],
+                "file": "data/db/transistor/DISES00023-1.db"
+            },
+            {
+                "example": [
+                    35358
+                ],
+                "file": "data/db/transistor/BC818-40LT1-D.db"
+            },
+            {
+                "example": [
+                    63013
+                ],
+                "file": "data/db/transistor/bc546_diotec.db"
+            },
+            {
+                "example": [
+                    29092
+                ],
+                "file": "data/db/transistor/AUKCS04635-1.db"
+            },
+            {
+                "example": [
+                    87200
+                ],
+                "file": "data/db/transistor/bc550.db"
+            },
+            {
+                "example": [
+                    36819
+                ],
+                "file": "data/db/transistor/BC182.db"
+            },
+            {
+                "example": [
+                    86290
+                ],
+                "file": "data/db/transistor/WEITS00252-1.db"
+            },
+            {
+                "example": [
+                    81702
+                ],
+                "file": "data/db/transistor/PHGLS25601-1.db"
+            },
+            {
+                "example": [
+                    82080
+                ],
+                "file": "data/db/transistor/PHGLS25601-1.db"
+            },
+            {
+                "example": [
+                    57497
+                ],
+                "file": "data/db/transistor/PNJIS01305-1.db"
+            },
+            {
+                "example": [
+                    52174
+                ],
+                "file": "data/db/transistor/JCSTS01155-1.db"
+            },
+            {
+                "example": [
+                    34400
+                ],
+                "file": "data/db/transistor/2N4124.db"
+            },
+            {
+                "example": [
+                    22313
+                ],
+                "file": "data/db/transistor/2N6426-D.db"
+            }
+        ]
+    }
+}

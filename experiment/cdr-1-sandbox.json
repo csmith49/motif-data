@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "size": 1,
+        "view_db": "./tests/views.db",
+        "views": [
+            "simple"
+        ],
+        "shortcuts": "./tests/shortcuts.json",
+        "max_attributes": 0,
+        "max_labels": 0,
+        "fixed_attributes": [
+            "TEXT",
+            "KEYWORD"
+        ],
+        "fixed_labels": [
+            "CONTAINS"
+        ]
+    },
+    "number-of-examples": 1,
+    "ground-truth": {
+        "kind": "provided",
+        "labels": [
+            {
+                "example": [
+                    38231
+                ],
+                "file": "data/db/cdr/227508.db"
+            }
+        ]
+    }
+}

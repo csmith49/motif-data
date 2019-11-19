@@ -1,18 +1,16 @@
 {
     "metadata": {
         "size": 1,
-        "view_db": "./data/views.db",
+        "view_db": "data/views.db",
         "views": [
             "simple"
         ],
-        "shortcuts": "./data/shortcuts.json",
+        "shortcuts": "data/shortcuts.json",
         "max_attributes": 0,
         "max_labels": 0,
         "fixed_attributes": [
             "TEXT",
-            "KIND",
-            "NER"
-        ],
+            "KIND"        ],
         "fixed_labels": [
             "CONTAINS",
             "RIGHT_OF"
@@ -22,469 +20,469 @@
         "kind": "provided",
         "labels": [
             {
-                "file": "./data/Millard_Fillmore.db",
+                "file": "data/db/wiki/Millard_Fillmore.db",
                 "example": [
                     137668
                 ]
             },
             {
-                "file": "./data/Al_Gore.db",
+                "file": "data/db/wiki/Al_Gore.db",
                 "example": [
                     58663
                 ]
             },
             {
-                "file": "./data/Harry_S._Truman.db",
+                "file": "data/db/wiki/Harry_S._Truman.db",
                 "example": [
                     99619
                 ]
             },
             {
-                "file": "./data/James_Buchanan.db",
+                "file": "data/db/wiki/James_Buchanan.db",
                 "example": [
                     105706
                 ]
             },
             {
-                "file": "./data/Thomas_Jefferson.db",
+                "file": "data/db/wiki/Thomas_Jefferson.db",
                 "example": [
                     140362
                 ]
             },
             {
-                "file": "./data/Franklin_D._Roosevelt.db",
+                "file": "data/db/wiki/Franklin_D._Roosevelt.db",
                 "example": [
                     64598
                 ]
             },
             {
-                "file": "./data/James_K._Polk.db",
+                "file": "data/db/wiki/James_K._Polk.db",
                 "example": [
                     86296
                 ]
             },
             {
-                "file": "./data/William_McKinley.db",
+                "file": "data/db/wiki/William_McKinley.db",
                 "example": [
                     138444
                 ]
             },
             {
-                "file": "./data/Donald_Trump.db",
+                "file": "data/db/wiki/Donald_Trump.db",
                 "example": [
                     69681
                 ]
             },
             {
-                "file": "./data/Gerald_Ford.db",
+                "file": "data/db/wiki/Gerald_Ford.db",
                 "example": [
                     70988
                 ]
             },
             {
-                "file": "./data/Andrew_Jackson.db",
+                "file": "data/db/wiki/Andrew_Jackson.db",
                 "example": [
                     56522
                 ]
             },
             {
-                "file": "./data/Charles_Curtis.db",
+                "file": "data/db/wiki/Charles_Curtis.db",
                 "example": [
                     74120
                 ]
             },
             {
-                "file": "./data/James_Madison.db",
+                "file": "data/db/wiki/James_Madison.db",
                 "example": [
                     118419
                 ]
             },
             {
-                "file": "./data/Bill_Clinton.db",
+                "file": "data/db/wiki/Bill_Clinton.db",
                 "example": [
                     64195
                 ]
             },
             {
-                "file": "./data/John_Nance_Garner.db",
+                "file": "data/db/wiki/John_Nance_Garner.db",
                 "example": [
                     99688
                 ]
             },
             {
-                "file": "./data/John_Quincy_Adams.db",
+                "file": "data/db/wiki/John_Quincy_Adams.db",
                 "example": [
                     109977
                 ]
             },
             {
-                "file": "./data/William_A._Wheeler.db",
+                "file": "data/db/wiki/William_A._Wheeler.db",
                 "example": [
                     127276
                 ]
             },
             {
-                "file": "./data/James_A._Garfield.db",
+                "file": "data/db/wiki/James_A._Garfield.db",
                 "example": [
                     92961
                 ]
             },
             {
-                "file": "./data/Grover_Cleveland.db",
+                "file": "data/db/wiki/Grover_Cleveland.db",
                 "example": [
                     106949
                 ]
             },
             {
-                "file": "./data/William_Henry_Harrison.db",
+                "file": "data/db/wiki/William_Henry_Harrison.db",
                 "example": [
                     144494
                 ]
             },
             {
-                "file": "./data/Ulysses_S._Grant.db",
+                "file": "data/db/wiki/Ulysses_S._Grant.db",
                 "example": [
                     131674
                 ]
             },
             {
-                "file": "./data/Charles_G._Dawes.db",
+                "file": "data/db/wiki/Charles_G._Dawes.db",
                 "example": [
                     75775
                 ]
             },
             {
-                "file": "./data/Franklin_Pierce.db",
+                "file": "data/db/wiki/Franklin_Pierce.db",
                 "example": [
                     93830
                 ]
             },
             {
-                "file": "./data/Richard_Mentor_Johnson.db",
+                "file": "data/db/wiki/Richard_Mentor_Johnson.db",
                 "example": [
                     131548
                 ]
             },
             {
-                "file": "./data/John_C._Calhoun.db",
+                "file": "data/db/wiki/John_C._Calhoun.db",
                 "example": [
                     118242
                 ]
             },
             {
-                "file": "./data/Dwight_D._Eisenhower.db",
+                "file": "data/db/wiki/Dwight_D._Eisenhower.db",
                 "example": [
                     80235
                 ]
             },
             {
-                "file": "./data/Benjamin_Harrison.db",
+                "file": "data/db/wiki/Benjamin_Harrison.db",
                 "example": [
                     69692
                 ]
             },
             {
-                "file": "./data/William_Howard_Taft.db",
+                "file": "data/db/wiki/William_Howard_Taft.db",
                 "example": [
                     128414
                 ]
             },
             {
-                "file": "./data/Zachary_Taylor.db",
+                "file": "data/db/wiki/Zachary_Taylor.db",
                 "example": [
                     147067
                 ]
             },
             {
-                "file": "./data/Joe_Biden.db",
+                "file": "data/db/wiki/Joe_Biden.db",
                 "example": [
                     122719
                 ]
             },
             {
-                "file": "./data/Daniel_D._Tompkins.db",
+                "file": "data/db/wiki/Daniel_D._Tompkins.db",
                 "example": [
                     87338
                 ]
             },
             {
-                "file": "./data/Walter_Mondale.db",
+                "file": "data/db/wiki/Walter_Mondale.db",
                 "example": [
                     124042
                 ]
             },
             {
-                "file": "./data/Elbridge_Gerry.db",
+                "file": "data/db/wiki/Elbridge_Gerry.db",
                 "example": [
                     63301
                 ]
             },
             {
-                "file": "./data/Dan_Quayle.db",
+                "file": "data/db/wiki/Dan_Quayle.db",
                 "example": [
                     77919
                 ]
             },
             {
-                "file": "./data/Dick_Cheney.db",
+                "file": "data/db/wiki/Dick_Cheney.db",
                 "example": [
                     88824
                 ]
             },
             {
-                "file": "./data/George_W._Bush.db",
+                "file": "data/db/wiki/George_W._Bush.db",
                 "example": [
                     90608
                 ]
             },
             {
-                "file": "./data/Aaron_Burr.db",
+                "file": "data/db/wiki/Aaron_Burr.db",
                 "example": [
                     55642
                 ]
             },
             {
-                "file": "./data/Charles_W._Fairbanks.db",
+                "file": "data/db/wiki/Charles_W._Fairbanks.db",
                 "example": [
                     86224
                 ]
             },
             {
-                "file": "./data/George_M._Dallas.db",
+                "file": "data/db/wiki/George_M._Dallas.db",
                 "example": [
                     98812
                 ]
             },
             {
-                "file": "./data/James_S._Sherman.db",
+                "file": "data/db/wiki/James_S._Sherman.db",
                 "example": [
                     110146
                 ]
             },
             {
-                "file": "./data/Hannibal_Hamlin.db",
+                "file": "data/db/wiki/Hannibal_Hamlin.db",
                 "example": [
                     87793
                 ]
             },
             {
-                "file": "./data/Nelson_Rockefeller.db",
+                "file": "data/db/wiki/Nelson_Rockefeller.db",
                 "example": [
                     119823
                 ]
             },
             {
-                "file": "./data/John_Tyler.db",
+                "file": "data/db/wiki/John_Tyler.db",
                 "example": [
                     100982
                 ]
             },
             {
-                "file": "./data/Henry_A._Wallace.db",
+                "file": "data/db/wiki/Henry_A._Wallace.db",
                 "example": [
                     77512
                 ]
             },
             {
-                "file": "./data/John_F._Kennedy.db",
+                "file": "data/db/wiki/John_F._Kennedy.db",
                 "example": [
                     130024
                 ]
             },
             {
-                "file": "./data/Mike_Pence.db",
+                "file": "data/db/wiki/Mike_Pence.db",
                 "example": [
                     106436
                 ]
             },
             {
-                "file": "./data/Barack_Obama.db",
+                "file": "data/db/wiki/Barack_Obama.db",
                 "example": [
                     78184
                 ]
             },
             {
-                "file": "./data/Martin_Van_Buren.db",
+                "file": "data/db/wiki/Martin_Van_Buren.db",
                 "example": [
                     114719
                 ]
             },
             {
-                "file": "./data/Alben_W._Barkley.db",
+                "file": "data/db/wiki/Alben_W._Barkley.db",
                 "example": [
                     73678
                 ]
             },
             {
-                "file": "./data/Jimmy_Carter.db",
+                "file": "data/db/wiki/Jimmy_Carter.db",
                 "example": [
                     110846
                 ]
             },
             {
-                "file": "./data/Spiro_Agnew.db",
+                "file": "data/db/wiki/Spiro_Agnew.db",
                 "example": [
                     137007
                 ]
             },
             {
-                "file": "./data/Rutherford_B._Hayes.db",
+                "file": "data/db/wiki/Rutherford_B._Hayes.db",
                 "example": [
                     124244
                 ]
             },
             {
-                "file": "./data/Theodore_Roosevelt.db",
+                "file": "data/db/wiki/Theodore_Roosevelt.db",
                 "example": [
                     145031
                 ]
             },
             {
-                "file": "./data/John_C._Breckinridge.db",
+                "file": "data/db/wiki/John_C._Breckinridge.db",
                 "example": [
                     103440
                 ]
             },
             {
-                "file": "./data/Hubert_Humphrey.db",
+                "file": "data/db/wiki/Hubert_Humphrey.db",
                 "example": [
                     113172
                 ]
             },
             {
-                "file": "./data/Thomas_A._Hendricks.db",
+                "file": "data/db/wiki/Thomas_A._Hendricks.db",
                 "example": [
                     129678
                 ]
             },
             {
-                "file": "./data/Richard_Nixon.db",
+                "file": "data/db/wiki/Richard_Nixon.db",
                 "example": [
                     141017
                 ]
             },
             {
-                "file": "./data/Lyndon_B._Johnson.db",
+                "file": "data/db/wiki/Lyndon_B._Johnson.db",
                 "example": [
                     123814
                 ]
             },
             {
-                "file": "./data/Chester_A._Arthur.db",
+                "file": "data/db/wiki/Chester_A._Arthur.db",
                 "example": [
                     60721
                 ]
             },
             {
-                "file": "./data/John_Adams.db",
+                "file": "data/db/wiki/John_Adams.db",
                 "example": [
                     92276
                 ]
             },
             {
-                "file": "./data/Garret_Hobart.db",
+                "file": "data/db/wiki/Garret_Hobart.db",
                 "example": [
                     76828
                 ]
             },
             {
-                "file": "./data/James_Monroe.db",
+                "file": "data/db/wiki/James_Monroe.db",
                 "example": [
                     98265
                 ]
             },
             {
-                "file": "./data/Herbert_Hoover.db",
+                "file": "data/db/wiki/Herbert_Hoover.db",
                 "example": [
                     80593
                 ]
             },
             {
-                "file": "./data/Andrew_Johnson.db",
+                "file": "data/db/wiki/Andrew_Johnson.db",
                 "example": [
                     61554
                 ]
             },
             {
-                "file": "./data/George_Washington.db",
+                "file": "data/db/wiki/George_Washington.db",
                 "example": [
                     100281
                 ]
             },
             {
-                "file": "./data/William_R._King.db",
+                "file": "data/db/wiki/William_R._King.db",
                 "example": [
                     146484
                 ]
             },
             {
-                "file": "./data/George_Clinton.db",
+                "file": "data/db/wiki/George_Clinton.db",
                 "example": [
                     88930
                 ]
             },
             {
-                "file": "./data/Henry_Wilson.db",
+                "file": "data/db/wiki/Henry_Wilson.db",
                 "example": [
                     89783
                 ]
             },
             {
-                "file": "./data/Thomas_R._Marshall.db",
+                "file": "data/db/wiki/Thomas_R._Marshall.db",
                 "example": [
                     121228
                 ]
             },
             {
-                "file": "./data/Levi_P._Morton.db",
+                "file": "data/db/wiki/Levi_P._Morton.db",
                 "example": [
                     122312
                 ]
             },
             {
-                "file": "./data/George_H._W._Bush.db",
+                "file": "data/db/wiki/George_H._W._Bush.db",
                 "example": [
                     79020
                 ]
             },
             {
-                "file": "./data/Adlai_Stevenson.db",
+                "file": "data/db/wiki/Adlai_Stevenson.db",
                 "example": [
                     71756
                 ]
             },
             {
-                "file": "./data/Abraham_Lincoln.db",
+                "file": "data/db/wiki/Abraham_Lincoln.db",
                 "example": [
                     64292
                 ]
             },
             {
-                "file": "./data/Ronald_Reagan.db",
+                "file": "data/db/wiki/Ronald_Reagan.db",
                 "example": [
                     112520
                 ]
             },
             {
-                "file": "./data/Calvin_Coolidge.db",
+                "file": "data/db/wiki/Calvin_Coolidge.db",
                 "example": [
                     58724
                 ]
             },
             {
-                "file": "./data/Schuyler_Colfax.db",
+                "file": "data/db/wiki/Schuyler_Colfax.db",
                 "example": [
                     135490
                 ]
             },
             {
-                "file": "./data/Woodrow_Wilson.db",
+                "file": "data/db/wiki/Woodrow_Wilson.db",
                 "example": [
                     150381
                 ]
             },
             {
-                "file": "./data/Warren_G._Harding.db",
+                "file": "data/db/Warren_G._Harding.db",
                 "example": [
                     148556
                 ]

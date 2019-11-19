@@ -8,15 +8,15 @@
         "max_attributes": 0,
         "max_labels": 0,
         "fixed_attributes": [
-            "KIND",
-            "NER"
+            "TEXT",
+            "NER",
+            "POS"
         ],
         "fixed_labels": [
-            "PREVIOUS",
-            "CONTAINS"
+            "PREVIOUS"
         ]
     },
-    "number-of-examples": 2,
+    "number-of-examples": 5,
     "ground-truth": {
         "kind": "provided",
         "labels": [

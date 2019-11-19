@@ -9,16 +9,14 @@
         "max_labels": 0,
         "fixed_attributes": [
             "TEXT",
-            "KIND",
-            "NER"
+            "NER",
+            "KIND"
         ],
         "fixed_labels": [
-            "NEXT",
-            "PREVIOUS",
-            "CONTAINS"
+            "PREVIOUS"
         ]
     },
-    "number-of-examples": 1,
+    "number-of-examples": 3,
     "ground-truth": {
         "kind": "provided",
         "labels": [

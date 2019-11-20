@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "size": 1,
+        "view_db": "/data/view/view.db",
+        "views": [
+            "simple"
+        ],
+        "shortcuts": "/data/shortcuts.json",
+        "fixed_attributes": [
+            "TEXT",
+            "KIND",
+            "NER"
+        ],
+        "fixed_labels": [
+            "LEFT_OF",
+            "CONTAINS"
+        ]
+    },
+    "files": [
+        "/data/Aaron_Burr.db",
+        "/data/Abraham_Lincoln.db",
+        "/data/Adlai_Stevenson.db",
+        "/data/Al_Gore.db",
+        "/data/Alben_W._Barkley.db",
+        "/data/Andrew_Jackson.db",
+        "/data/Andrew_Johnson.db",
+        "/data/Barack_Obama.db",
+        "/data/Benjamin_Harrison.db",
+        "/data/Bill_Clinton.db",
+        "/data/Calvin_Coolidge.db",
+        "/data/Charles_Curtis.db",
+        "/data/Charles_G._Dawes.db",
+        "/data/Charles_W._Fairbanks.db",
+        "/data/Chester_A._Arthur.db",
+        "/data/Dan_Quayle.db",
+        "/data/Daniel_D._Tompkins.db",
+        "/data/Dick_Cheney.db",
+        "/data/Donald_Trump.db",
+        "/data/Dwight_D._Eisenhower.db",
+        "/data/Elbridge_Gerry.db",
+        "/data/Franklin_D._Roosevelt.db",
+        "/data/Franklin_Pierce.db",
+        "/data/Garret_Hobart.db",
+        "/data/George_Clinton.db",
+        "/data/George_H._W._Bush.db",
+        "/data/George_M._Dallas.db",
+        "/data/George_W._Bush.db",
+        "/data/George_Washington.db",
+        "/data/Gerald_Ford.db",
+        "/data/Grover_Cleveland.db",
+        "/data/Hannibal_Hamlin.db",
+        "/data/Harry_S._Truman.db",
+        "/data/Henry_A._Wallace.db",
+        "/data/Henry_Wilson.db",
+        "/data/Herbert_Hoover.db",
+        "/data/Hubert_Humphrey.db",
+        "/data/James_A._Garfield.db",
+        "/data/James_Buchanan.db",
+        "/data/James_K._Polk.db",
+        "/data/James_Madison.db",
+        "/data/James_Monroe.db",
+        "/data/James_S._Sherman.db",
+        "/data/Jimmy_Carter.db",
+        "/data/Joe_Biden.db",
+        "/data/John_Adams.db",
+        "/data/John_C._Breckinridge.db",
+        "/data/John_C._Calhoun.db",
+        "/data/John_F._Kennedy.db",
+        "/data/John_Nance_Garner.db",
+        "/data/John_Quincy_Adams.db",
+        "/data/John_Tyler.db",
+        "/data/Levi_P._Morton.db",
+        "/data/Lyndon_B._Johnson.db",
+        "/data/Martin_Van_Buren.db",
+        "/data/Mike_Pence.db",
+        "/data/Millard_Fillmore.db",
+        "/data/Nelson_Rockefeller.db",
+        "/data/Richard_Mentor_Johnson.db",
+        "/data/Richard_Nixon.db",
+        "/data/Ronald_Reagan.db",
+        "/data/Rutherford_B._Hayes.db",
+        "/data/Schuyler_Colfax.db",
+        "/data/Spiro_Agnew.db",
+        "/data/Theodore_Roosevelt.db",
+        "/data/Thomas_A._Hendricks.db",
+        "/data/Thomas_Jefferson.db",
+        "/data/Thomas_R._Marshall.db",
+        "/data/Ulysses_S._Grant.db",
+        "/data/Walter_Mondale.db",
+        "/data/Warren_G._Harding.db",
+        "/data/William_A._Wheeler.db",
+        "/data/William_Henry_Harrison.db",
+        "/data/William_Howard_Taft.db",
+        "/data/William_McKinley.db",
+        "/data/William_R._King.db",
+        "/data/Woodrow_Wilson.db",
+        "/data/Zachary_Taylor.db"
+    ],
+    "examples": [
+        {
+            "example": [
+                621177,
+                621181,
+                621186,
+                621189,
+                621193,
+                621197,
+                1110467
+            ],
+            "file": "/data/Millard_Fillmore.db"
+        },
+        {
+            "example": [
+                282039,
+                282044,
+                282048,
+                282051,
+                282056
+            ],
+            "file": "/data/Al_Gore.db"
+        }
+    ]
+}

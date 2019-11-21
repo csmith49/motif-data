@@ -1,0 +1,597 @@
+{
+    "metadata": {
+        "size": 1,
+        "view_db": "./data/views.db",
+        "views": [
+            "simple"
+        ],
+        "shortcuts": "./data/shortcuts.json",
+        "max_attributes": 0,
+        "max_labels": 0,
+        "fixed_attributes": [
+            "TEXT",
+            "KIND",
+            "NER"
+        ],
+        "fixed_labels": [
+            "RIGHT_OF",
+            "CONTAINS"
+        ]
+    },
+    "number-of-examples": 1,
+    "ground-truth": {
+        "kind": "provided",
+        "labels": [
+            {
+                "file": "data/db/noise-typo-20/0.db",
+                "example": [
+                    858
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/103.db",
+                "example": [
+                    899
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/10.db",
+                "example": [
+                    1011
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/13.db",
+                "example": [
+                    940
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/18.db",
+                "example": [
+                    981
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/105.db",
+                "example": [
+                    1294
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/21.db",
+                "example": [
+                    1052
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/25.db",
+                "example": [
+                    1210
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/16.db",
+                "example": [
+                    1624
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/29.db",
+                "example": [
+                    1370
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/2.db",
+                "example": [
+                    1783
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/32.db",
+                "example": [
+                    1532
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/24.db",
+                "example": [
+                    1948
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/36.db",
+                "example": [
+                    1697
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/27.db",
+                "example": [
+                    2109
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/4.db",
+                "example": [
+                    1860
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/31.db",
+                "example": [
+                    2267
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/43.db",
+                "example": [
+                    2025
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/35.db",
+                "example": [
+                    2429
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/48.db",
+                "example": [
+                    2193
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/39.db",
+                "example": [
+                    2595
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/50.db",
+                "example": [
+                    2354
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/42.db",
+                "example": [
+                    2762
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/55.db",
+                "example": [
+                    2518
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/47.db",
+                "example": [
+                    2928
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/1.db",
+                "example": [
+                    1092
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/6.db",
+                "example": [
+                    2675
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/5.db",
+                "example": [
+                    3088
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/63.db",
+                "example": [
+                    2839
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/53.db",
+                "example": [
+                    3245
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/102.db",
+                "example": [
+                    1256
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/67.db",
+                "example": [
+                    2997
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/70.db",
+                "example": [
+                    3168
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/74.db",
+                "example": [
+                    3332
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/14.db",
+                "example": [
+                    1581
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/60.db",
+                "example": [
+                    3744
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/78.db",
+                "example": [
+                    3490
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/19.db",
+                "example": [
+                    1745
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/65.db",
+                "example": [
+                    3908
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/23.db",
+                "example": [
+                    1906
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/81.db",
+                "example": [
+                    3658
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/7.db",
+                "example": [
+                    4077
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/86.db",
+                "example": [
+                    3815
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/28.db",
+                "example": [
+                    2072
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/71.db",
+                "example": [
+                    4242
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/30.db",
+                "example": [
+                    2240
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/90.db",
+                "example": [
+                    3980
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/76.db",
+                "example": [
+                    4408
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/34.db",
+                "example": [
+                    2401
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/94.db",
+                "example": [
+                    4139
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/79.db",
+                "example": [
+                    4529
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/98.db",
+                "example": [
+                    4305
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/38.db",
+                "example": [
+                    2561
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/83.db",
+                "example": [
+                    4656
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/87.db",
+                "example": [
+                    4780
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/44.db",
+                "example": [
+                    2887
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/91.db",
+                "example": [
+                    4906
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/49.db",
+                "example": [
+                    3054
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/96.db",
+                "example": [
+                    5028
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/52.db",
+                "example": [
+                    3215
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/54.db",
+                "example": [
+                    3373
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/58.db",
+                "example": [
+                    3544
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/62.db",
+                "example": [
+                    3706
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/66.db",
+                "example": [
+                    3867
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/69.db",
+                "example": [
+                    4030
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/72.db",
+                "example": [
+                    4198
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/75.db",
+                "example": [
+                    4358
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/8.db",
+                "example": [
+                    4507
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/84.db",
+                "example": [
+                    4631
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/9.db",
+                "example": [
+                    4874
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/92.db",
+                "example": [
+                    5002
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/97.db",
+                "example": [
+                    5123
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/100.db",
+                "example": [
+                    1099
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/101.db",
+                "example": [
+                    1263
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/11.db",
+                "example": [
+                    1433
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/17.db",
+                "example": [
+                    1598
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/22.db",
+                "example": [
+                    1931
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/26.db",
+                "example": [
+                    2097
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/3.db",
+                "example": [
+                    2263
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/33.db",
+                "example": [
+                    2428
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/37.db",
+                "example": [
+                    2598
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/40.db",
+                "example": [
+                    2765
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/46.db",
+                "example": [
+                    3098
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/51.db",
+                "example": [
+                    3265
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/56.db",
+                "example": [
+                    3429
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/61.db",
+                "example": [
+                    3593
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/64.db",
+                "example": [
+                    3759
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/68.db",
+                "example": [
+                    3925
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/73.db",
+                "example": [
+                    4090
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/77.db",
+                "example": [
+                    4253
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/82.db",
+                "example": [
+                    4539
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/85.db",
+                "example": [
+                    4659
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/89.db",
+                "example": [
+                    4781
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/95.db",
+                "example": [
+                    5024
+                ]
+            },
+            {
+                "file": "data/db/noise-typo-20/99.db",
+                "example": [
+                    5140
+                ]
+            }
+        ]
+    }
+}

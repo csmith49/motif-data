@@ -1,0 +1,597 @@
+{
+    "metadata": {
+        "size": 1,
+        "view_db": "./data/views.db",
+        "views": [
+            "simple"
+        ],
+        "shortcuts": "./data/shortcuts.json",
+        "max_attributes": 0,
+        "max_labels": 0,
+        "fixed_attributes": [
+            "TEXT",
+            "KIND",
+            "NER"
+        ],
+        "fixed_labels": [
+            "RIGHT_OF",
+            "CONTAINS"
+        ]
+    },
+    "number-of-examples": 1,
+    "ground-truth": {
+        "kind": "provided",
+        "labels": [
+            {
+                "file": "data/db/noise-struct-10/1.db",
+                "example": [
+                    858
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/102.db",
+                "example": [
+                    899
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/13.db",
+                "example": [
+                    1012
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/19.db",
+                "example": [
+                    1094
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/24.db",
+                "example": [
+                    1194
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/28.db",
+                "example": [
+                    1290
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/31.db",
+                "example": [
+                    1430
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/35.db",
+                "example": [
+                    1591
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/39.db",
+                "example": [
+                    1756
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/42.db",
+                "example": [
+                    1908
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/47.db",
+                "example": [
+                    2076
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/50.db",
+                "example": [
+                    2238
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/55.db",
+                "example": [
+                    2405
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/60.db",
+                "example": [
+                    2747
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/63.db",
+                "example": [
+                    2918
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/68.db",
+                "example": [
+                    3085
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/72.db",
+                "example": [
+                    3237
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/75.db",
+                "example": [
+                    3366
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/79.db",
+                "example": [
+                    3528
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/83.db",
+                "example": [
+                    3690
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/87.db",
+                "example": [
+                    3855
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/91.db",
+                "example": [
+                    4017
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/96.db",
+                "example": [
+                    4177
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/10.db",
+                "example": [
+                    969
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/103.db",
+                "example": [
+                    1051
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/14.db",
+                "example": [
+                    1148
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/18.db",
+                "example": [
+                    1523
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/22.db",
+                "example": [
+                    1687
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/26.db",
+                "example": [
+                    1857
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/30.db",
+                "example": [
+                    2027
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/34.db",
+                "example": [
+                    2189
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/38.db",
+                "example": [
+                    2348
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/100.db",
+                "example": [
+                    1129
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/101.db",
+                "example": [
+                    1219
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/43.db",
+                "example": [
+                    2669
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/11.db",
+                "example": [
+                    1329
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/48.db",
+                "example": [
+                    2832
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/17.db",
+                "example": [
+                    1484
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/52.db",
+                "example": [
+                    2999
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/54.db",
+                "example": [
+                    3157
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/21.db",
+                "example": [
+                    1811
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/58.db",
+                "example": [
+                    3285
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/25.db",
+                "example": [
+                    1971
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/62.db",
+                "example": [
+                    3456
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/29.db",
+                "example": [
+                    2132
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/65.db",
+                "example": [
+                    3620
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/32.db",
+                "example": [
+                    2302
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/69.db",
+                "example": [
+                    3786
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/36.db",
+                "example": [
+                    2460
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/71.db",
+                "example": [
+                    3950
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/4.db",
+                "example": [
+                    2622
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/76.db",
+                "example": [
+                    4115
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/44.db",
+                "example": [
+                    2785
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/8.db",
+                "example": [
+                    4277
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/49.db",
+                "example": [
+                    2944
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/84.db",
+                "example": [
+                    4408
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/51.db",
+                "example": [
+                    3106
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/0.db",
+                "example": [
+                    1277
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/56.db",
+                "example": [
+                    3307
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/9.db",
+                "example": [
+                    4654
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/105.db",
+                "example": [
+                    1571
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/61.db",
+                "example": [
+                    3466
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/92.db",
+                "example": [
+                    4777
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/66.db",
+                "example": [
+                    3634
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/97.db",
+                "example": [
+                    4898
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/16.db",
+                "example": [
+                    1904
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/7.db",
+                "example": [
+                    3804
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/2.db",
+                "example": [
+                    2069
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/73.db",
+                "example": [
+                    3972
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/23.db",
+                "example": [
+                    2229
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/77.db",
+                "example": [
+                    4137
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/27.db",
+                "example": [
+                    2393
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/81.db",
+                "example": [
+                    4425
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/3.db",
+                "example": [
+                    2566
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/33.db",
+                "example": [
+                    2729
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/86.db",
+                "example": [
+                    4548
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/37.db",
+                "example": [
+                    2888
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/90.db",
+                "example": [
+                    4671
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/40.db",
+                "example": [
+                    3048
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/94.db",
+                "example": [
+                    4795
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/98.db",
+                "example": [
+                    4919
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/46.db",
+                "example": [
+                    3430
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/5.db",
+                "example": [
+                    3592
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/53.db",
+                "example": [
+                    3747
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/6.db",
+                "example": [
+                    4071
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/64.db",
+                "example": [
+                    4236
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/67.db",
+                "example": [
+                    4376
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/70.db",
+                "example": [
+                    4499
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/74.db",
+                "example": [
+                    4623
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/78.db",
+                "example": [
+                    4743
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/82.db",
+                "example": [
+                    4865
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/85.db",
+                "example": [
+                    4992
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/89.db",
+                "example": [
+                    5040
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/95.db",
+                "example": [
+                    5122
+                ]
+            },
+            {
+                "file": "data/db/noise-struct-10/99.db",
+                "example": [
+                    5163
+                ]
+            }
+        ]
+    }
+}

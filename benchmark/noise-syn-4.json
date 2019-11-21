@@ -1,0 +1,597 @@
+{
+    "metadata": {
+        "size": 1,
+        "view_db": "./data/views.db",
+        "views": [
+            "simple"
+        ],
+        "shortcuts": "./data/shortcuts.json",
+        "max_attributes": 0,
+        "max_labels": 0,
+        "fixed_attributes": [
+            "TEXT",
+            "KIND",
+            "NER"
+        ],
+        "fixed_labels": [
+            "RIGHT_OF",
+            "CONTAINS"
+        ]
+    },
+    "number-of-examples": 1,
+    "ground-truth": {
+        "kind": "provided",
+        "labels": [
+            {
+                "file": "data/db/noise-syn-4/1.db",
+                "example": [
+                    858
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/102.db",
+                "example": [
+                    922
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/11.db",
+                "example": [
+                    1002
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/18.db",
+                "example": [
+                    1084
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/22.db",
+                "example": [
+                    1284
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/26.db",
+                "example": [
+                    1444
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/30.db",
+                "example": [
+                    1609
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/34.db",
+                "example": [
+                    1772
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/38.db",
+                "example": [
+                    1931
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/40.db",
+                "example": [
+                    2098
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/47.db",
+                "example": [
+                    2427
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/5.db",
+                "example": [
+                    2592
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/53.db",
+                "example": [
+                    2756
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/60.db",
+                "example": [
+                    3490
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/64.db",
+                "example": [
+                    3655
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/68.db",
+                "example": [
+                    3815
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/72.db",
+                "example": [
+                    3979
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/75.db",
+                "example": [
+                    4141
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/79.db",
+                "example": [
+                    4301
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/83.db",
+                "example": [
+                    4466
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/87.db",
+                "example": [
+                    4632
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/91.db",
+                "example": [
+                    4771
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/97.db",
+                "example": [
+                    4898
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/100.db",
+                "example": [
+                    896
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/101.db",
+                "example": [
+                    977
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/16.db",
+                "example": [
+                    1252
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/2.db",
+                "example": [
+                    1402
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/24.db",
+                "example": [
+                    1567
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/28.db",
+                "example": [
+                    1731
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/31.db",
+                "example": [
+                    1897
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/35.db",
+                "example": [
+                    2060
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/39.db",
+                "example": [
+                    2220
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/42.db",
+                "example": [
+                    2378
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/46.db",
+                "example": [
+                    2541
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/50.db",
+                "example": [
+                    2706
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/55.db",
+                "example": [
+                    2854
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/6.db",
+                "example": [
+                    2973
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/63.db",
+                "example": [
+                    3106
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/67.db",
+                "example": [
+                    3271
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/70.db",
+                "example": [
+                    3436
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/74.db",
+                "example": [
+                    3604
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/78.db",
+                "example": [
+                    3765
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/82.db",
+                "example": [
+                    3926
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/85.db",
+                "example": [
+                    4093
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/89.db",
+                "example": [
+                    4253
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/92.db",
+                "example": [
+                    4412
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/96.db",
+                "example": [
+                    4574
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/0.db",
+                "example": [
+                    1203
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/105.db",
+                "example": [
+                    1503
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/14.db",
+                "example": [
+                    1666
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/19.db",
+                "example": [
+                    1831
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/23.db",
+                "example": [
+                    1985
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/27.db",
+                "example": [
+                    2145
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/3.db",
+                "example": [
+                    2312
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/33.db",
+                "example": [
+                    2476
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/37.db",
+                "example": [
+                    2639
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/44.db",
+                "example": [
+                    2938
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/48.db",
+                "example": [
+                    3067
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/51.db",
+                "example": [
+                    3230
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/56.db",
+                "example": [
+                    3395
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/61.db",
+                "example": [
+                    3565
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/65.db",
+                "example": [
+                    3733
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/7.db",
+                "example": [
+                    3905
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/71.db",
+                "example": [
+                    4067
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/76.db",
+                "example": [
+                    4232
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/8.db",
+                "example": [
+                    4394
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/84.db",
+                "example": [
+                    4560
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/90.db",
+                "example": [
+                    4854
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/95.db",
+                "example": [
+                    5062
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/99.db",
+                "example": [
+                    5144
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/10.db",
+                "example": [
+                    1329
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/103.db",
+                "example": [
+                    1492
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/13.db",
+                "example": [
+                    1657
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/17.db",
+                "example": [
+                    1821
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/21.db",
+                "example": [
+                    1995
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/25.db",
+                "example": [
+                    2164
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/29.db",
+                "example": [
+                    2333
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/32.db",
+                "example": [
+                    2498
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/36.db",
+                "example": [
+                    2661
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/4.db",
+                "example": [
+                    2820
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/43.db",
+                "example": [
+                    2940
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/49.db",
+                "example": [
+                    3061
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/52.db",
+                "example": [
+                    3225
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/54.db",
+                "example": [
+                    3390
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/58.db",
+                "example": [
+                    3546
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/62.db",
+                "example": [
+                    3708
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/66.db",
+                "example": [
+                    3874
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/69.db",
+                "example": [
+                    4034
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/73.db",
+                "example": [
+                    4205
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/77.db",
+                "example": [
+                    4380
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/81.db",
+                "example": [
+                    4696
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/86.db",
+                "example": [
+                    4814
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/9.db",
+                "example": [
+                    4935
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/94.db",
+                "example": [
+                    5037
+                ]
+            },
+            {
+                "file": "data/db/noise-syn-4/98.db",
+                "example": [
+                    5119
+                ]
+            }
+        ]
+    }
+}
